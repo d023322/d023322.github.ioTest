@@ -7,3 +7,10 @@ Luna Lovegood was born on the 13th of February 1981. She is the daughter of Xeno
 * Aepfel
 * Birne
 * Sonstiges
+
+
+
+As Uwe Specht said:
+
+> Das ist ein schoenes Zitat 
+> welches ich so von mir gebe.
